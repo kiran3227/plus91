@@ -2,7 +2,7 @@
 
   $servername = 'localhost';
   $username = 'root';
-  $password = 'Sveri123@';
+  $password = '';
   $dbname = 'plus91';
 
   // Connection Created
